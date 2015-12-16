@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/zkclient-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/curator-client-2.6.0.jar" sourcepath="lib/curator-client-2.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/curator-framework-2.6.0.jar" sourcepath="lib/curator-framework-2.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/curator-recipes-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/curator-client-2.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/curator-framework-2.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/curator-recipes-2.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
